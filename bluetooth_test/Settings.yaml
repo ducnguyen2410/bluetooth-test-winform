@@ -1,0 +1,6 @@
+BatterySaverMode: true
+BluetoothEnabled: true
+BluetoothDeviceName: MyDevice
+LicenseKey: abcdef123456
+AppVersion: 1.0.0
+Languages: en,es,fr
